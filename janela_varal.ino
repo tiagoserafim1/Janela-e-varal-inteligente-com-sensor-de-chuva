@@ -1,9 +1,9 @@
 #include <ESP32Servo.h>
 
 //  Sensor e servos
-int sensorChuva = 4;           // D4
-int servoVaralPin = 2;         // D2
-int servoJanelaPin = 5;        // D5
+int sensorChuva = 4;// D4
+int servoVaralPin = 2;// D2
+int servoJanelaPin = 5; // D5
 
 Servo servoVaral;
 Servo servoJanela;
