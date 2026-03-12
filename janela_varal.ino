@@ -61,4 +61,3 @@ void loop() {
   digitalWrite(bluePin, LOW);
   delay(tempoApagar);
 }
- 
